@@ -7,3 +7,5 @@
 
 
 ![スクリーンキャプチャ](https://github.com/mapconcierge/FieldTrip4GSC2016odawara/blob/master/odawara_bustrip2016.png?raw=true)
+
+© GSC, Aoyama Gakuin University. CC BY 4.0
